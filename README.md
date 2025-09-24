@@ -42,7 +42,7 @@ Thank you!
 ## 🛠️ How to Run
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/ShippingQuoteApp.git
+   git clone [https://github.com/your-username/ShippingQuoteApp.git](https://sagargit94.github.io/Shipping-Quote-App/)
    cd ShippingQuoteApp
    ```
 2. Run the program:
@@ -57,5 +57,3 @@ Thank you!
 
 ---
 
-## 📜 License
-This project is open source under the MIT License.
