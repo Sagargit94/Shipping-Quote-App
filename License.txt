@@ -1,0 +1,11 @@
+
+## How to Use These Files:
+
+1. **Create a new folder** called `PackageExpress` on your computer
+2. **Save each file** with the exact names shown above in the `PackageExpress` folder
+3. **Open command prompt/terminal** in the `PackageExpress` folder
+4. **Run these commands:**
+
+```bash
+dotnet restore
+dotnet run
